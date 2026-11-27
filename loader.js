@@ -1,5 +1,5 @@
 (async function () {
-  const BASE = "https://krisostomosabdi.github.io/teks-misa-katedral-semarang";
+  const BASE = "https://mkikatedral.github.io/teks-misa/";
   // Refreshes browser cache every 5 minutes after a git push
   const ver = Math.floor(Date.now() / (5 * 60 * 1000));
   const root = document.getElementById("misa-widget-root");
